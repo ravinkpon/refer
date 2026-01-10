@@ -13,3 +13,10 @@ __pycache__/
 
 *.npy
 *.npz
+
+# ignore files
+
+pytorch.ipynb
+
+#ignore folder
+data
